@@ -55,9 +55,9 @@ day: Day of the transaction
 Exploratory Data Analysis
 
 ## Visualization of Transaction Amount vs. Frequency
-![Transaction Amount vs. Frequency](Screenshot 2024-08-02 at 1.34.08 PM.png)
+![Transaction Amount vs. Frequency](transaction_amount_vs_frequency.png)
 ## Plot of Days of the Week and Number of Fraud Transactions
-![Number of Fraud Transactions by Day of the Week](Screenshot 2024-08-02 at 1.34.30 PM.png)
+![Number of Fraud Transactions by Day of the Week](fraud_transactions_by_day_of_week.png)
 
 ## Model Training and Evaluation
 
