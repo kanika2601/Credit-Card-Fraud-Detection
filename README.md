@@ -13,25 +13,45 @@ The objective of this project is to build a model to detect fraudulent credit ca
 The dataset contains the following columns:
 
 cc_num: Credit card number
+
 merchant: Merchant name
+
 category: Merchant category
+
 amt: Transaction amount
+
 first: First name of the cardholder
+
 last: Last name of the cardholder
+
 gender: Gender of the cardholder
+
 street: Street address of the cardholder
+
 city: City of the cardholder
+
 state: State of the cardholder
+
 unix_time: Transaction time in Unix format
+
 merch_lat: Merchant latitude
+
 merch_long: Merchant longitude
+
 is_fraud: Fraud label (0 for legitimate, 1 for fraud)
+
 age: Age of the cardholder
+
 hour: Hour of the transaction
+
 day_of_week: Day of the week of the transaction
+
 year: Year of the transaction
+
 month: Month of the transaction
+
 day: Day of the transaction
+
 Exploratory Data Analysis
 
 ## Visualization of Transaction Amount vs. Frequency
