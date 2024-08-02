@@ -63,15 +63,6 @@ Exploratory Data Analysis
 
 We applied three different models: Logistic Regression, Decision Tree, and Random Forest. Out of these, the Random Forest model showed the highest accuracy and AUC-ROC score.
 
-Logistic Regression
-Accuracy: X%
-AUC-ROC Score: X
-Decision Tree
-Accuracy: X%
-AUC-ROC Score: X
-Random Forest
-Accuracy: 95%
-AUC-ROC Score: 0.98
 Conclusion
 
 The Random Forest model outperformed the other models in detecting fraudulent transactions, achieving an accuracy of 95% and an AUC-ROC score of 0.98. Further improvements can be made by tuning hyperparameters and exploring additional features.
